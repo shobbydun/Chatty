@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chatty</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="label_sign_up">sign up</string>
+    <string name="label_sign_in">sign in</string>
+    <string name="label_message">Message</string>
+    <string name="label_profile">Profile</string>
+    <string name="Btn_sign_up">sign up</string>
+    <string name="Btn_log_in">Login</string>
+    <string name="Btn_Save">Save</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Enter confirm Password</string>
+
+
+</resources>
